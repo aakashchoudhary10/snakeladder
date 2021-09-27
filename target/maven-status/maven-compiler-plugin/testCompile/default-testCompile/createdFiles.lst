@@ -1,0 +1,3 @@
+com\qainfotech\automation\snpAPITest\CreateNewBoard.class
+com\qainfotech\automation\snpAPITest\JoinPlayer.class
+com\qainfotech\automation\snpAPITest\RollDiceAndMovePlayer.class

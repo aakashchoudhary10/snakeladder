@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Board-ID: 898]]>
+    </line>
+    <line>
+      <![CDATA[PlayerNames: [Aakash]]]>
+    </line>
+    <line>
+      <![CDATA[PlayerIDs: [1516]]]>
+    </line>
+    <line>
+      <![CDATA[PlayerNames: [Aakash, Love]]]>
+    </line>
+    <line>
+      <![CDATA[PlayerIDs: [1516, 1517]]]>
+    </line>
+    <line>
+      <![CDATA[Player 1 details[Aakash, 1516]]]>
+    </line>
+    <line>
+      <![CDATA[Player 2 details[Love, 1517]]]>
+    </line>
+    <line>
+      <![CDATA[Roll Dice and Moved Player]]>
+    </line>
+    <line>
+      <![CDATA[Getting Board Details]]>
+    </line>
+    <line>
+      <![CDATA[PlayerIDs: [1516, 1517]]]>
+    </line>
+    <line>
+      <![CDATA[PlayerPositions: [7, 0]]]>
+    </line>
+    <line>
+      <![CDATA[Player Postion: 7]]>
+    </line>
+    <line>
+      <![CDATA[Roll Dice and Moved Player]]>
+    </line>
+    <line>
+      <![CDATA[Getting Board Details]]>
+    </line>
+    <line>
+      <![CDATA[PlayerIDs: [1516, 1517]]]>
+    </line>
+    <line>
+      <![CDATA[PlayerPositions: [7, 17]]]>
+    </line>
+    <line>
+      <![CDATA[Player Postion: 17]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5185" started-at="2020-02-27T17:20:59 IST" finished-at="2020-02-27T17:21:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5185" started-at="2020-02-27T17:20:59 IST" finished-at="2020-02-27T17:21:04 IST">
+      <class name="com.qainfotech.automation.snpAPITest.FirstSNLTest">
+        <test-method status="PASS" signature="CreateBoard()[pri:0, instance:com.qainfotech.automation.snpAPITest.FirstSNLTest@76707e36]" name="CreateBoard" is-config="true" duration-ms="4123" started-at="2020-02-27T17:20:59 IST" finished-at="2020-02-27T17:21:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Board-ID: 898]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateBoard -->
+        <test-method status="PASS" signature="firstTest()[pri:1, instance:com.qainfotech.automation.snpAPITest.FirstSNLTest@76707e36]" name="firstTest" duration-ms="1008" started-at="2020-02-27T17:21:03 IST" finished-at="2020-02-27T17:21:04 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[PlayerNames: [Aakash]]]>
+            </line>
+            <line>
+              <![CDATA[PlayerIDs: [1516]]]>
+            </line>
+            <line>
+              <![CDATA[PlayerNames: [Aakash, Love]]]>
+            </line>
+            <line>
+              <![CDATA[PlayerIDs: [1516, 1517]]]>
+            </line>
+            <line>
+              <![CDATA[Player 1 details[Aakash, 1516]]]>
+            </line>
+            <line>
+              <![CDATA[Player 2 details[Love, 1517]]]>
+            </line>
+            <line>
+              <![CDATA[Roll Dice and Moved Player]]>
+            </line>
+            <line>
+              <![CDATA[Getting Board Details]]>
+            </line>
+            <line>
+              <![CDATA[PlayerIDs: [1516, 1517]]]>
+            </line>
+            <line>
+              <![CDATA[PlayerPositions: [7, 0]]]>
+            </line>
+            <line>
+              <![CDATA[Player Postion: 7]]>
+            </line>
+            <line>
+              <![CDATA[Roll Dice and Moved Player]]>
+            </line>
+            <line>
+              <![CDATA[Getting Board Details]]>
+            </line>
+            <line>
+              <![CDATA[PlayerIDs: [1516, 1517]]]>
+            </line>
+            <line>
+              <![CDATA[PlayerPositions: [7, 17]]]>
+            </line>
+            <line>
+              <![CDATA[Player Postion: 17]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qainfotech.automation.snpAPITest.FirstSNLTest@76707e36]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-02-27T17:21:04 IST" finished-at="2020-02-27T17:21:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qainfotech.automation.snpAPITest.FirstSNLTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
